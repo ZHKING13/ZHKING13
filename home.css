@@ -1,0 +1,226 @@
+            body {
+                margin: 0%;
+                padding: ;
+                background-color: rgba(238, 245, 252, 0.884);
+            }
+            
+            a {
+                position: relative;
+                margin-top: 2.5%;
+                margin-left: 6%;
+            }
+            
+            img {
+                width: 150px;
+                height: 150px;
+                border-radius: 10%;
+                margin-left: 12%;
+            }
+            
+            button {
+                height: 33%;
+                align-items: flex-end;
+            }
+            
+            span {
+                color: black;
+            }
+            
+            .home {
+                background: url('images/main-page.jpg');
+                background-position: initial;
+                background-size: cover;
+                height: 85vh;
+                width: auto;
+                margin: 0%;
+                flex-direction: column;
+                align-content: space-between;
+            }
+            
+            .main-page {
+                display: flex;
+                flex-direction: row;
+                justify-content: space-between;
+            }
+            
+            .main-page h2 {
+                margin-left: 2%;
+            }
+            
+            .navigation {
+                margin-right: 9%;
+                display: flex;
+            }
+            
+            .menu {
+                margin-right: 2%;
+                display: flex;
+            }
+            
+            .center {
+                justify-self: center;
+                margin-top: 12%;
+                margin-left: 38%;
+                margin-right: 20%;
+            }
+            
+            .title {
+                text-transform: uppercase;
+                margin-top: 70px;
+                font-size: 39px;
+                font-weight: 15px;
+                color: rgb(39, 39, 38);
+            }
+            
+            .no-service {
+                display: flex;
+                justify-content: center;
+                flex-direction: row;
+                /* height: auto; */
+                background-color: rgba(52, 116, 177, 0.441);
+                margin-top: 1%;
+            }
+            
+            .no-service div {
+                padding-right: 20px;
+                flex-wrap: wrap;
+            }
+            
+            .centre {
+                padding-left: 20%;
+                padding-top: 5%;
+            }
+            
+            .tourism {
+                margin-left: 30px;
+            }
+            
+            .centrer {
+                text-align: center;
+                margin-top: 3%;
+            }
+            
+            .recommended {
+                display: flex;
+                justify-content: center;
+                flex-wrap: wrap;
+            }
+            
+            .option {
+                display: flex;
+                justify-content: center;
+                margin-top: 1%;
+                align-items: flex-start;
+            }
+            
+            .destination {
+                border-radius: 10%;
+                display: flex;
+                align-content: space-around;
+                flex-direction: column;
+                margin-left: 4%;
+                margin-top: 2.5%;
+            }
+            
+            .text {
+                text-align: center;
+            }
+            
+            .detail {
+                margin-top: 87.5%;
+                text-align: center;
+                color: aliceblue;
+            }
+            
+            .japon {
+                background-image: url('images/japon1.jpg');
+                min-width: 300px;
+                height: 400px;
+                background-size: cover;
+                background-position: center;
+            }
+            
+            .thailland {
+                background-image: url('images/thailande.jpg');
+                min-width: 300px;
+                height: 400px;
+                background-size: cover;
+                background-position: center;
+            }
+            
+            .indonesi {
+                background-image: url('images/indonesie1.jpg');
+                min-width: 300px;
+                height: 400px;
+                background-size: cover;
+                background-position: center;
+            }
+            
+            .all {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+            
+            .gris {
+                color: rgba(7, 0, 0, 0.712);
+            }
+            
+            .prix {
+                color: rgb(6, 29, 240);
+            }
+            
+            .servi {
+                text-align: center;
+            }
+            
+            .hkong {
+                background-image: url('images/indonesie.jpg');
+                min-width: 300px;
+                height: 400px;
+                background-size: cover;
+                background-position: center;
+            }
+            
+            .london {
+                background-image: url('images/thalande1.jpg');
+                min-width: 300px;
+                height: 400px;
+                background-size: cover;
+                background-position: center;
+            }
+            
+            .botom {
+                position: absolute;
+                bottom: 0px;
+                background: white;
+                width: 100%;
+                text-align: center;
+            }
+            
+            .avis {
+                display: flex;
+                justify-content: center;
+                margin-left: 4%;
+                flex-wrap: nowrap;
+            }
+            
+            footer {
+                display: flex;
+                flex-direction: row;
+                justify-content: space-between;
+                background: rgb(161, 161, 167);
+                margin-top: 3%;
+            }
+            
+            .apropos {
+                width: 55%;
+                text-align: center;
+            }
+            
+            .contactes {
+                display: block;
+                align-content: flex-end;
+                justify-self: center;
+                margin-right: 70px;
+            }
