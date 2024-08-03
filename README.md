@@ -48,7 +48,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhking13&show_icons=true&theme=merko)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zhking13&theme=dark&background=000000)](https://git.io/streak-stats) <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZHKING13&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+------------------
+![contribution overview](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZHKING13&theme=onedark)
+![top language repo overview](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZHKING13&theme=onedark)
+![top language commit overview](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZHKING13&theme=onedark)
+![starts overview](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZHKING13&theme=onedark)
+![commits overview](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZHKING13&theme=onedark&utcOffset=8)
 </div>
